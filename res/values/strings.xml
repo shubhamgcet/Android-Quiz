@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="e">Please enter your name</string>
+    <string name="b1">Lets go!</string>
+    <string name="sub">Please select a subject</string>
+    <string name="sub1">English</string>
+    <string name="sub2">Maths</string>
+    <string name="sub3">GK</string>
+    <string name="submit">Submit -&gt;</string>
+
+</resources>
